@@ -1,6 +1,6 @@
 <h2>Hey! I'm Andre 👋 </h2>
 
-🔭 I'm currently working on a [_meme chat app_](https://github.com/andrearcaina/echo-web)
+🔭 I'm currently on a software engineering internship with ECCC!
 
 🌱 Exploring more of: **[C#](https://github.com/andrearcaina/see-sharp) & .NET, [Go](https://github.com/andrearcaina/blazingly-go), AWS, Docker, Kubernetes**
 
