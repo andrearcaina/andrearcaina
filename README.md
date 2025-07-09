@@ -1,23 +1,47 @@
-<h2>Hey! I'm Andre 👋 </h2>
+## Hey! I'm Andre 👋
 
 🔭 I'm currently on a software engineering internship with ECCC!
 
-🌱 Exploring more of: **[C#](https://github.com/andrearcaina/see-sharp) & .NET, [Go](https://github.com/andrearcaina/blazingly-go), AWS, Docker, Kubernetes**
+🌱 Exploring more of: **Go, GCP, AWS, Docker, Kubernetes, Terraform, Prometheus, Grafana**
 
 💬 Check out my [**personal site**](https://www.andrearcaina.me/) featuring more about me
 
 ⚡ On my free time: I like going to the gym and playing video games!
 
-**known tech stack** 🧑‍💻
-| languages | frameworks | other
-|-----------|------------|------------|
-| [![languages](https://skillicons.dev/icons?i=java,python,javascript,typescript,golang,c&perline=3)](https://github.com/tandpfun/skill-icons) | [![frameworks](https://skillicons.dev/icons?i=flask,django,nextjs,spring,react,tailwind&perline=3)](https://github.com/tandpfun/skill-icons) | [![other](https://skillicons.dev/icons?i=postgresql,bash,linux,vscode,idea,npm,maven,docker,git,postman,netlify,vercel&perline=4)](https://github.com/tandpfun/skill-icons)
+### **known tech stack 🧑‍💻**
 
-**find me elsewhere on the web** 👇 
+#### **Programming Languages:**
+[![Java](https://skillicons.dev/icons?i=java)](https://github.com/tandpfun/skill-icons)
+[![Python](https://skillicons.dev/icons?i=python)](https://github.com/tandpfun/skill-icons)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://github.com/tandpfun/skill-icons)
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://github.com/tandpfun/skill-icons)
+[![Go](https://skillicons.dev/icons?i=go)](https://github.com/tandpfun/skill-icons)
+[![C](https://skillicons.dev/icons?i=c)](https://github.com/tandpfun/skill-icons)
+[![C#](https://skillicons.dev/icons?i=cs)](https://github.com/tandpfun/skill-icons)
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andre-arcaina/) 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/azdrx) 
-[![Devpost](https://skillicons.dev/icons?i=devto)](https://devpost.com/andrearcaina)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:dtandre331@gmail.com)
+#### **Frameworks & Libraries:**
+[![Flask](https://skillicons.dev/icons?i=flask)](https://github.com/tandpfun/skill-icons)
+[![Django](https://skillicons.dev/icons?i=django)](https://github.com/tandpfun/skill-icons)
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://github.com/tandpfun/skill-icons)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://github.com/tandpfun/skill-icons)
+[![Spring](https://skillicons.dev/icons?i=spring)](https://github.com/tandpfun/skill-icons)
+[![React](https://skillicons.dev/icons?i=react)](https://github.com/tandpfun/skill-icons)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://github.com/tandpfun/skill-icons)
 
-![Visitors](https://komarev.com/ghpvc/?username=andrearcaina&label=Visitors&style=plastic)
+#### **Other Tools:**
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://github.com/tandpfun/skill-icons)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://github.com/tandpfun/skill-icons)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://github.com/tandpfun/skill-icons)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://github.com/tandpfun/skill-icons)
+[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://github.com/tandpfun/skill-icons)
+[![npm](https://skillicons.dev/icons?i=npm)](https://github.com/tandpfun/skill-icons)
+[![Maven](https://skillicons.dev/icons?i=maven)](https://github.com/tandpfun/skill-icons)
+<br>
+[![Gitlab](https://skillicons.dev/icons?i=gitlab)](https://github.com/tandpfun/skill-icons)
+[![GitHubActions](https://skillicons.dev/icons?i=githubactions)](https://github.com/tandpfun/skill-icons)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://github.com/tandpfun/skill-icons)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://github.com/tandpfun/skill-icons)
+[![Git](https://skillicons.dev/icons?i=git)](https://github.com/tandpfun/skill-icons)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://github.com/tandpfun/skill-icons)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://github.com/tandpfun/skill-icons)
+
