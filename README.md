@@ -1,19 +1,45 @@
-### Hey there 👋
-**My name is Andre Arcaina, and I'm aspiring software developer who is currently a first year Computer Science 👨‍💻 at Toronto's Metropolitan University (Formerly known as Ryerson University)! I am very interested in coding and I'm extremely motivated to make interesting projects, notably classic video games!;** 
+## Hey! I'm Andre 👋
 
-### Hobbies 🤩 ###
-- Swimming; 🏊‍♂️ (used to be part of MAC, LCM)
-- Basketball; 🏀 (used to be part of Markham Gators)
-- Collaborating; 🗣️ 
-- Programming; ⚙️
-- Playing Video Games; 🤭
+🔭 I'm currently on a software engineering internship with ECCC!
 
-### What am I doing right now? 😮 ###
-- 🔭 I’m currently working on a pokemon game using the programming language Python and the library pygame;
-- 🌱 I’m currently learning more advanced concepts in Java, such as classes, inheritance, sorting algorithms;
-- 🤔 I’m planning to take courses to learn how to utilize HTML, CSS, JS and C++;
+🌱 Exploring more of: **Go, GCP, AWS, Docker, Kubernetes, Terraform, Prometheus, Grafana**
 
-### Where can you find me 🧐🧐: ###
-- Personal Email: dtandre331@gmail.com ;
-- Linked-In: https://www.linkedin.com/in/andre-arcaina-14015b223/ ;
+💬 Check out my [**personal site**](https://www.andrearcaina.me/) featuring more about me
 
+⚡ On my free time: I like going to the gym and playing video games!
+
+### **known tech stack 🧑‍💻**
+
+#### **Programming Languages:**
+[![Java](https://skillicons.dev/icons?i=java)](https://github.com/tandpfun/skill-icons)
+[![Python](https://skillicons.dev/icons?i=python)](https://github.com/tandpfun/skill-icons)
+[![Go](https://skillicons.dev/icons?i=go)](https://github.com/tandpfun/skill-icons)
+[![C](https://skillicons.dev/icons?i=c)](https://github.com/tandpfun/skill-icons)
+[![C#](https://skillicons.dev/icons?i=cs)](https://github.com/tandpfun/skill-icons)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://github.com/tandpfun/skill-icons)
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://github.com/tandpfun/skill-icons)
+
+#### **Frameworks & Libraries:**
+[![Spring](https://skillicons.dev/icons?i=spring)](https://github.com/tandpfun/skill-icons)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://github.com/tandpfun/skill-icons)
+[![Django](https://skillicons.dev/icons?i=django)](https://github.com/tandpfun/skill-icons)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://github.com/tandpfun/skill-icons)
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://github.com/tandpfun/skill-icons)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://github.com/tandpfun/skill-icons)
+[![React](https://skillicons.dev/icons?i=react)](https://github.com/tandpfun/skill-icons)
+
+#### **Other Tools:**
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://github.com/tandpfun/skill-icons)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://github.com/tandpfun/skill-icons)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://github.com/tandpfun/skill-icons)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://github.com/tandpfun/skill-icons)
+[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://github.com/tandpfun/skill-icons)
+[![Maven](https://skillicons.dev/icons?i=maven)](https://github.com/tandpfun/skill-icons) 
+[![Gitlab](https://skillicons.dev/icons?i=gitlab)](https://github.com/tandpfun/skill-icons) <br> 
+[![GitHubActions](https://skillicons.dev/icons?i=githubactions)](https://github.com/tandpfun/skill-icons)
+[![GCP](https://skillicons.dev/icons?i=gcp)](https://github.com/tandpfun/skill-icons)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://github.com/tandpfun/skill-icons)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://github.com/tandpfun/skill-icons)
+[![Git](https://skillicons.dev/icons?i=git)](https://github.com/tandpfun/skill-icons)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://github.com/tandpfun/skill-icons)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://github.com/tandpfun/skill-icons)
