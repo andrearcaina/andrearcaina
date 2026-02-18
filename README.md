@@ -1,6 +1,19 @@
-### hey! i'm andre 👋 
-🔭 currently on a **software engineering internship** with eccc using **c++, python, java, postgres**   
-🕹️ i enjoy playing **video games**, reading **manga/manhwa**, binging **anime/netflix**, going to **gym**      
-☁️ learning modern tools such as **gcp, aws, k8s, etcd, scylladb, redis, kafka, grafana, prometheus**          
-📖 exploring on key concepts such as **system design, architecture patterns, database theory**       
-🐟 if you want to know more about me, feel free to check out my [**portfolio**](https://andrearcaina.vercel.app/) website
+### hey, i'm andre 👋  
+
+🔭 **software engineering intern @ eccc**  
+building systems with go, c++, java, python, postgres
+
+🧠 **interests**  
+backend engineering • distributed systems • cloud infrastructure
+
+☁️ **working with / learning**  
+[rust](https://github.com/andrearcaina/crusty) • gcp • aws • kubernetes • etcd • scylladb • redis • kafka • grafana • prometheus
+
+📚 **currently studying**  
+system design & architecture • database systems • [_designing data-intensive applications_](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+
+🕹️ **outside of tech**  
+video games • manga/manhwa • anime • netflix • lifting
+
+🐟 **portfolio**  
+https://andrearcaina.vercel.app/
