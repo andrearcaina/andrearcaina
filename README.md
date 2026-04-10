@@ -16,4 +16,4 @@ system design & architecture • database systems • [_designing data-intensive
 video games • manga/manhwa • anime • netflix • lifting
 
 🐟 **portfolio**  
-https://andrearcaina.vercel.app/
+https://andrearcaina.ca
