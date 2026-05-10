@@ -1,19 +1,10 @@
-### hey, i'm andre 👋  
+### hey, i'm andre 👋
 
-🔭 **software engineering intern @ eccc**  
-building systems with go, c++, java, python, postgres
+interested in **backend / distributed systems / cloud infrastructure** 
 
-🧠 **interests**  
-backend engineering • distributed systems • cloud infrastructure
+learning: etcd, cockroachdb, kafka, terraform, jaeger, otel, [rust](https://github.com/andrearcaina/crusty)
 
-☁️ **working with / learning**  
-[rust](https://github.com/andrearcaina/crusty) • gcp • aws • kubernetes • etcd • scylladb • redis • kafka • grafana • prometheus
+exploring topics in _system design, database systems, big data_
 
-📚 **currently studying**  
-system design & architecture • database systems • [_designing data-intensive applications_](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-
-🕹️ **outside of tech**  
-video games • manga/manhwa • anime • netflix • lifting
-
-🐟 **portfolio**  
 https://andrearcaina.ca
+
