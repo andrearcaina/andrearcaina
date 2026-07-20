@@ -1,10 +1,8 @@
 ### hey, i'm andre 👋
 
-interested in **backend / distributed systems / cloud infrastructure** 
-
-learning: etcd, cockroachdb, kafka, terraform, jaeger, otel, [rust](https://github.com/andrearcaina/crusty)
-
-exploring topics in _system design, database systems, big data_
+i like building backend and dev tools, mostly in go
+  
+currently learning how **databases** and **distributed systems** work             
+by messing around with raft, nats, kubernetes, and [rust](https://github.com/andrearcaina/crusty)
 
 https://andrearcaina.ca
-
